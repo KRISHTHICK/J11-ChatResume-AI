@@ -1,0 +1,21 @@
+streamlit
+ollama
+
+# # Clone the repo
+# git clone https://github.com/yourusername/ChatResume-AI.git
+# cd ChatResume-AI
+
+# # Install requirements
+# pip install -r requirements.txt
+
+# # Start Ollama (run in separate terminal)
+# ollama serve
+# ollama run phi3
+
+# # Run the app
+# streamlit run app.py
+
+#  Example Prompts
+# “How should I describe my internship?”
+
+# “Generate bullets for software engineering role”
